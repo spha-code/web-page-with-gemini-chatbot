@@ -1,0 +1,23 @@
+{
+  "name": "ai-company-landing-page",
+  "version": "1.0.0",
+  "description": "A landing page for an AI company with a Gemini 1.5 Flash chatbot.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ai",
+    "gemini",
+    "chatbot",
+    "landing-page",
+    "express"
+  ],
+  "author": "User",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.11.4",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
