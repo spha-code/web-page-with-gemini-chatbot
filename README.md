@@ -1,6 +1,6 @@
  # Web Page with Gemini Chatbot
 
-This project demonstrates how to integrate Google's Gemini AI into a responsive web interface, enabling users to interact with an AI chatbot directly from their browser.
+Google's Gemini AI integrated into a responsive web interface, enabling users to interact with an AI chatbot directly from their browser.
 
 ## 🚀 Features
 
@@ -45,7 +45,7 @@ This project demonstrates how to integrate Google's Gemini AI into a responsive 
    Create a `.env` file in the root directory and add:
 
    ```env
-   GEMINI_API_KEY=your_api_key_here
+   GEMINI_API_KEY="your_api_key_here"
    ```
 
 5. Start the application:
