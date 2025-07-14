@@ -51,6 +51,6 @@ This project demonstrates how to integrate Google's Gemini AI into a responsive 
    ```bash
    http://localhost:3000 
 
-   to interact with the chatbot.
+to interact with the chatbot.
 
 
