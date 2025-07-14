@@ -14,6 +14,7 @@ This project demonstrates how to integrate Google's Gemini AI into a responsive 
 ![Chat Interface](https://blog.det.life/create-your-own-gemini-ai-chatbot-with-a-twist-using-python-jinja2-and-nicegui-7d35ac981a63)
 
 *Example of the chatbot interface.*
+['Chatbot Landing Page'](landing_page.png)
 
 ## 🛠️ Technologies Used
 
