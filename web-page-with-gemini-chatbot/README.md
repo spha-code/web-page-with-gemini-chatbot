@@ -11,7 +11,7 @@ This project demonstrates how to integrate Google's Gemini AI into a responsive 
 
 ## 📸 Screenshots
 
-![Chat Interface](web-page-with-gemini-chatbot/Landing_Page.png)
+![Chat Interface](Landing_Page.png)
 
 *Example of the chatbot interface.*
 
