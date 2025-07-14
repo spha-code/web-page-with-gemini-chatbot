@@ -55,7 +55,7 @@ This project demonstrates how to integrate Google's Gemini AI into a responsive 
    npm start
    ```
 
-6. Open your browser and navigate to ```bash `http://localhost:3000` ``` to interact with the chatbot.
+6. Open your browser and navigate to `http://localhost:3000` to interact with the chatbot.
 
 ## 📄 License
 
