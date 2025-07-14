@@ -46,7 +46,7 @@ This project demonstrates how to integrate Google's Gemini AI into a responsive 
    Create a `.env` file in the root directory and add:
 
    ```env
-   GEMINI_API_KEY=your_api_key_here
+   GEMINI_API_KEY="google_api_key_here"
    ```
 
 5. Start the application:
