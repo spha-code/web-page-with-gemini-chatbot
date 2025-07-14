@@ -1,4 +1,6 @@
- #Web Page with Gemini Chatbot
+ # Web Page with Gemini Chatbot
+  ## Web Page with Gemini Chatbot
+   ### Web Page with Gemini Chatbot
 
 This project demonstrates how to integrate Google's Gemini AI into a responsive web interface, enabling users to interact with an AI chatbot directly from their browser.
 
