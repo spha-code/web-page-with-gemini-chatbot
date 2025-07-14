@@ -1,4 +1,4 @@
-# Web Page with Gemini Chatbot
+ Web Page with Gemini Chatbot
 
 This project demonstrates how to integrate Google's Gemini AI into a responsive web interface, enabling users to interact with an AI chatbot directly from their browser.
 
@@ -27,28 +27,36 @@ This project demonstrates how to integrate Google's Gemini AI into a responsive 
 
    ```bash
    git clone https://github.com/spha-code/AI-Agents.git
+   ```
 
 2. Navigate to the project directory:
-   
+
    ```bash
    cd AI-Agents/web-page-with-gemini-chatbot
+   ```
 
 3. Install dependencies:
+
    ```bash
    npm install
+   ```
 
 4. Set up your Gemini API key:
 
-   Create a .env file in the root directory and add:
-   ```bash
+   Create a `.env` file in the root directory and add:
+
+   ```env
    GEMINI_API_KEY=your_api_key_here
+   ```
 
 5. Start the application:
+
    ```bash
    npm start
+   ```
 
-6. Open your browser and navigate to this URL to interact with the chatbot
-   ```bash
-   http://localhost:3000
+6. Open your browser and navigate to `http://localhost:3000` to interact with the chatbot.
 
+## 📄 License
 
+This project is licensed under the MIT License.
