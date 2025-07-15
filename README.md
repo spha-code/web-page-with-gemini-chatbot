@@ -11,8 +11,7 @@ Google's Gemini AI integrated into a responsive web interface, enabling users to
 
 ## 📸 Screenshots
 
-![Chatbot Landing Page](./web-page-with-gemini-chatbot/Landing_Page.png)
-![My Image](AI_Chatbot.png.png)
+![Chatbot Landing Page](./web-page-with-gemini-chatbot/AI_Chatbot.png)
 
 ## 🛠️ Technologies Used
 
